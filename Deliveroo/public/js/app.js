@@ -53774,9 +53774,15 @@ throw new Error("Module build failed (from ./node_modules/css-loader/index.js):\
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+<<<<<<< HEAD
 __webpack_require__(/*! /Users/katiepalumbo/Documents/Boolean/Assignments/Progetto-Finale/Progetto-Finale/Deliveroo/resources/js/app.js */"./resources/js/app.js");
 __webpack_require__(/*! /Users/katiepalumbo/Documents/Boolean/Assignments/Progetto-Finale/Progetto-Finale/Deliveroo/resources/sass/app.scss */"./resources/sass/app.scss");
 module.exports = __webpack_require__(/*! /Users/katiepalumbo/Documents/Boolean/Assignments/Progetto-Finale/Progetto-Finale/Deliveroo/resources/sass/admin.scss */"./resources/sass/admin.scss");
+=======
+__webpack_require__(/*! C:\progLaravel\Progetto-Finale\Deliveroo\resources\js\app.js */"./resources/js/app.js");
+__webpack_require__(/*! C:\progLaravel\Progetto-Finale\Deliveroo\resources\sass\app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! C:\progLaravel\Progetto-Finale\Deliveroo\resources\sass\admin.scss */"./resources/sass/admin.scss");
+>>>>>>> 2da741c9e5a1f044d0a657aa6f2b2c8d1b6367f6
 
 
 /***/ })

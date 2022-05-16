@@ -46,6 +46,9 @@ export default {
 
     .container-header {
         background-color: #FF4718;
+        position: fixed;
+        z-index: 4;
+        top: 0px;
 
         .box-nav {
             display: flex;

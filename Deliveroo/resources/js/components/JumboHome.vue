@@ -40,6 +40,7 @@ export default {
 
 .jumbotron-container {
     min-height: 450px;
+    margin-top: 66px;
     background-image: url('../assets/images/food.jpg');
     background-size: cover;
 
