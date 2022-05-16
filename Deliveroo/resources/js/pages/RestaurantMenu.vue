@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="my_container-items">
         <div class="row m-5">
             <h2>Nome ristorante</h2>
             <div class="card col-12">
@@ -150,6 +150,10 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.my_container-items {
+    margin-top: 66px;
+}
+
 .flex{
     display: flex;
 

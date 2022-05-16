@@ -53774,9 +53774,9 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Tonno\Desktop\Boolean\Deliveboo\Progetto-Finale\Deliveroo\resources\js\app.js */"./resources/js/app.js");
-__webpack_require__(/*! C:\Users\Tonno\Desktop\Boolean\Deliveboo\Progetto-Finale\Deliveroo\resources\sass\app.scss */"./resources/sass/app.scss");
-module.exports = __webpack_require__(/*! C:\Users\Tonno\Desktop\Boolean\Deliveboo\Progetto-Finale\Deliveroo\resources\sass\admin.scss */"./resources/sass/admin.scss");
+__webpack_require__(/*! C:\progLaravel\Progetto-Finale\Deliveroo\resources\js\app.js */"./resources/js/app.js");
+__webpack_require__(/*! C:\progLaravel\Progetto-Finale\Deliveroo\resources\sass\app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! C:\progLaravel\Progetto-Finale\Deliveroo\resources\sass\admin.scss */"./resources/sass/admin.scss");
 
 
 /***/ })
